@@ -1,0 +1,7 @@
+{
+  "name": "Aether Particles: Hand-Driven 3D Playground",
+  "description": "An interactive 3D particle system that responds in real-time to hand gestures detected via MediaPipe and rendered with Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
